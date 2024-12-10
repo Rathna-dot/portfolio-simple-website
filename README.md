@@ -1,7 +1,3 @@
-Got it! Here's an updated description for your GitHub README based on your two-page portfolio (Home and Contact):
-
----
-
 # My Portfolio Website
 
 This is a simple portfolio website created using HTML and basic CSS. The website consists of two pages: a **Home** page to showcase my work and skills, and a **Contact** page for visitors to reach out to me.
